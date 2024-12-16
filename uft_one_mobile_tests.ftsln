@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "aos_mobile_login", "aos_mobile_login\Test.tsp", "8311A56D-FAE3-4F53-8E89-7CA4B163EA6C"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\alopes2\WORKAREA\uft_one_mobile_tests\aos_mobile_login\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "aos_mobile_search", "..\aos_mobile_search\Test.tsp", "0180CADA-6D48-4835-A368-52D8F8AF99E8"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\alopes2\WORKAREA\uft_one_mobile_tests\aos_mobile_search\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "aos_mobile_cart", "..\aos_mobile_cart\Test.tsp", "FD95A250-D343-4B7C-BF53-9C5AACF166F3"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\alopes2\WORKAREA\uft_one_mobile_tests\aos_mobile_cart\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "aos_mobile_products", "..\aos_mobile_products\Test.tsp", "9D269C60-CD3D-482D-BE43-1C08E2220128"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\alopes2\WORKAREA\uft_one_mobile_tests\aos_mobile_products\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		8311A56D-FAE3-4F53-8E89-7CA4B163EA6C.Debug|Any CPU.Build.0 = Debug|Any CPU
+		8311A56D-FAE3-4F53-8E89-7CA4B163EA6C.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		8311A56D-FAE3-4F53-8E89-7CA4B163EA6C.Release|Any CPU.Build.0 = Release|Any CPU
+		8311A56D-FAE3-4F53-8E89-7CA4B163EA6C.Release|Any CPU.ActiveCfg = Release|Any CPU
+		0180CADA-6D48-4835-A368-52D8F8AF99E8.Debug|Any CPU.Build.0 = Debug|Any CPU
+		0180CADA-6D48-4835-A368-52D8F8AF99E8.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		0180CADA-6D48-4835-A368-52D8F8AF99E8.Release|Any CPU.Build.0 = Release|Any CPU
+		0180CADA-6D48-4835-A368-52D8F8AF99E8.Release|Any CPU.ActiveCfg = Release|Any CPU
+		FD95A250-D343-4B7C-BF53-9C5AACF166F3.Debug|Any CPU.Build.0 = Debug|Any CPU
+		FD95A250-D343-4B7C-BF53-9C5AACF166F3.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		FD95A250-D343-4B7C-BF53-9C5AACF166F3.Release|Any CPU.Build.0 = Release|Any CPU
+		FD95A250-D343-4B7C-BF53-9C5AACF166F3.Release|Any CPU.ActiveCfg = Release|Any CPU
+		9D269C60-CD3D-482D-BE43-1C08E2220128.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9D269C60-CD3D-482D-BE43-1C08E2220128.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9D269C60-CD3D-482D-BE43-1C08E2220128.Release|Any CPU.Build.0 = Release|Any CPU
+		9D269C60-CD3D-482D-BE43-1C08E2220128.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
